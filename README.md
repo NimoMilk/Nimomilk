@@ -4,9 +4,13 @@
     <a href="https://nimomilk.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/about_me-white?style=for-the-badge&logo=github"></a>
     <a href="https://penguinmod.com/profile?user=Selue"><img alt="Static Badge" src="https://img.shields.io/badge/Penguin%20mod-blue?style=for-the-badge"></a>
 </div>
-
----
-
 <div align="center">
     <img src="/Thumbnail 1.svg" width="500"></a>
 </div>
+
+
+---
+
+
+TEOL - The end of light | Penguin Mod
+...
