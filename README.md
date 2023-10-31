@@ -12,5 +12,5 @@
 ---
 
 
-TEOL - The end of light | Penguin Mod
+Half - Note | The most challenging rhythm game!
 ...
