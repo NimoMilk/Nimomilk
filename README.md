@@ -8,9 +8,3 @@
     <img src="/Thumbnail 1.svg" width="500"></a>
 </div>
 
-
----
-
-
-Half - Note | The most challenging rhythm game!
-...
